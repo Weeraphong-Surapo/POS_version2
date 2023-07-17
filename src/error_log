@@ -1,0 +1,24 @@
+[06-Apr-2023 09:02:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home5/bigshrry/public_html/POS/config/connect.php:6
+Stack trace:
+#0 /home5/bigshrry/public_html/POS/config/connect.php(6): mysqli->__construct()
+#1 /home5/bigshrry/public_html/POS/src/salepic.php(1): include('/home5/bigshrry...')
+#2 {main}
+  thrown in /home5/bigshrry/public_html/POS/config/connect.php on line 6
+[07-Apr-2023 11:17:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home5/bigshrry/public_html/POS/config/connect.php:6
+Stack trace:
+#0 /home5/bigshrry/public_html/POS/config/connect.php(6): mysqli->__construct()
+#1 /home5/bigshrry/public_html/POS/src/salepic.php(1): include('/home5/bigshrry...')
+#2 {main}
+  thrown in /home5/bigshrry/public_html/POS/config/connect.php on line 6
+[10-Apr-2023 16:22:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home5/bigshrry/public_html/POS/config/connect.php:6
+Stack trace:
+#0 /home5/bigshrry/public_html/POS/config/connect.php(6): mysqli->__construct()
+#1 /home5/bigshrry/public_html/POS/src/salepic.php(1): include('/home5/bigshrry...')
+#2 {main}
+  thrown in /home5/bigshrry/public_html/POS/config/connect.php on line 6
+[27-Jun-2023 06:33:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home5/bigshrry/public_html/POS/config/connect.php:6
+Stack trace:
+#0 /home5/bigshrry/public_html/POS/config/connect.php(6): mysqli->__construct()
+#1 /home5/bigshrry/public_html/POS/src/login.php(2): include('/home5/bigshrry...')
+#2 {main}
+  thrown in /home5/bigshrry/public_html/POS/config/connect.php on line 6
